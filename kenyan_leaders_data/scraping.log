@@ -1,0 +1,96 @@
+2025-04-29 21:56:04,635 - INFO - Starting complete scrape of Mzalendo website
+2025-04-29 21:56:04,636 - INFO - === Scraping National Assembly ===
+2025-04-29 21:56:04,636 - INFO - Scraping national_assembly  from https://mzalendo.com/parliament/national_assembly/
+2025-04-29 21:56:07,568 - INFO - Found 0 politicians in national_assembly
+2025-04-29 21:56:07,570 - INFO - Successfully scraped details for 0 politicians in national_assembly
+2025-04-29 21:56:07,570 - INFO - === Scraping Senate ===
+2025-04-29 21:56:07,570 - INFO - Scraping senate  from https://mzalendo.com/parliament/senate/
+2025-04-29 21:56:09,207 - INFO - Found 0 politicians in senate
+2025-04-29 21:56:09,207 - INFO - Successfully scraped details for 0 politicians in senate
+2025-04-29 21:56:09,208 - INFO - === Scraping County Assemblies ===
+2025-04-29 21:56:10,817 - INFO - Scraping complete in 6 seconds. Data saved to kenyan_leaders_data
+2025-04-29 22:31:23,472 - INFO - Starting complete scrape of Mzalendo website
+2025-04-29 22:31:23,473 - INFO - === Scraping National Assembly ===
+2025-04-29 22:31:23,473 - INFO - Scraping national_assembly  from https://mzalendo.com/parliament/national_assembly/
+2025-04-29 22:31:26,272 - INFO - Processing page: https://mzalendo.com/parliament/national_assembly/
+2025-04-29 22:31:27,909 - INFO - Processing page: https://mzalendo.com?q=&page=2
+2025-04-29 22:31:29,379 - INFO - Processing page: https://mzalendo.com?q=&page=3
+2025-04-29 22:31:31,077 - INFO - Processing page: https://mzalendo.com?q=&page=4
+2025-04-29 22:31:32,651 - INFO - Processing page: https://mzalendo.com?q=&page=5
+2025-04-29 22:31:34,228 - INFO - Found 32 politicians in national_assembly
+2025-04-29 22:31:34,229 - INFO - Getting details for Abdi, Hussein
+2025-04-29 22:31:34,230 - INFO - Getting details for Abdikheir, Mohamed
+2025-04-29 22:31:34,231 - INFO - Getting details for Abdi, Yusuf Hassan
+2025-04-29 22:31:34,232 - INFO - Getting details for Abuor, Paul
+2025-04-29 22:31:34,236 - INFO - Getting details for Aburi, Mpuru
+2025-04-29 22:31:36,080 - INFO - Getting details for Adagala, Beatrice Kahai
+2025-04-29 22:31:37,545 - INFO - Getting details for Adan, Mohammed
+2025-04-29 22:31:37,545 - INFO - Getting details for Adow, Mohamed
+2025-04-29 22:31:37,546 - INFO - Getting details for Adow, Yakub
+2025-04-29 22:31:37,546 - INFO - Getting details for Akujah Protus
+2025-04-29 22:31:37,613 - INFO - Getting details for Alfah, Miruka Ondieki
+2025-04-29 22:31:39,093 - INFO - Getting details for Ali, Abdi
+2025-04-29 22:31:39,210 - INFO - Getting details for Ali Abdisirat Khalif
+2025-04-29 22:31:39,210 - INFO - Getting details for Ali, Mohamed
+2025-04-29 22:31:39,323 - INFO - Getting details for Amollo, Paul Otiende
+2025-04-29 22:31:39,323 - INFO - Getting details for Ariko John Namoit
+2025-04-29 22:31:40,730 - INFO - Getting details for Abdi, Hussein
+2025-04-29 22:31:41,077 - INFO - Getting details for Abdikheir, Mohamed
+2025-04-29 22:31:41,079 - INFO - Getting details for Abdi, Yusuf Hassan
+2025-04-29 22:31:41,079 - INFO - Getting details for Abuor, Paul
+2025-04-29 22:31:41,079 - INFO - Getting details for Aburi, Mpuru
+2025-04-29 22:31:42,297 - INFO - Getting details for Adagala, Beatrice Kahai
+2025-04-29 22:31:43,175 - INFO - Getting details for Adan, Mohammed
+2025-04-29 22:31:43,177 - INFO - Getting details for Adow, Mohamed
+2025-04-29 22:31:43,177 - INFO - Getting details for Adow, Yakub
+2025-04-29 22:31:43,177 - INFO - Getting details for Akujah Protus
+2025-04-29 22:31:45,190 - INFO - Getting details for Alfah, Miruka Ondieki
+2025-04-29 22:31:45,191 - INFO - Getting details for Ali, Abdi
+2025-04-29 22:31:45,191 - INFO - Getting details for Ali Abdisirat Khalif
+2025-04-29 22:31:45,192 - INFO - Getting details for Ali, Mohamed
+2025-04-29 22:31:45,815 - INFO - Getting details for Amollo, Paul Otiende
+2025-04-29 22:31:46,982 - INFO - Getting details for Ariko John Namoit
+2025-04-29 22:31:48,644 - INFO - Successfully scraped details for 32 politicians in national_assembly
+2025-04-29 22:31:48,644 - INFO - === Scraping Senate ===
+2025-04-29 22:31:48,644 - INFO - Scraping senate  from https://mzalendo.com/parliament/senate/
+2025-04-29 22:31:50,360 - INFO - Processing page: https://mzalendo.com/parliament/national_assembly/
+2025-04-29 22:31:52,066 - INFO - Processing page: https://mzalendo.com?q=&page=2
+2025-04-29 22:31:53,898 - INFO - Processing page: https://mzalendo.com?q=&page=3
+2025-04-29 22:31:55,555 - INFO - Processing page: https://mzalendo.com?q=&page=4
+2025-04-29 22:31:57,126 - INFO - Processing page: https://mzalendo.com?q=&page=5
+2025-04-29 22:31:58,721 - INFO - Found 32 politicians in senate
+2025-04-29 22:31:58,722 - INFO - Getting details for Abdalla Shakilla Mohamed
+2025-04-29 22:31:58,722 - INFO - Getting details for Abdul M. Haji
+2025-04-29 22:31:58,723 - INFO - Getting details for Agnes Kavindu Muthama
+2025-04-29 22:31:58,724 - INFO - Getting details for Beatrice Akinyi Oyomo
+2025-04-29 22:31:58,725 - INFO - Getting details for Beth Kalunda Syengo
+2025-04-29 22:32:00,586 - INFO - Getting details for Betty Batuli Montet
+2025-04-29 22:32:00,587 - INFO - Getting details for Boy Issa Juma
+2025-04-29 22:32:00,587 - INFO - Getting details for Catherine Muyeka Mumma
+2025-04-29 22:32:00,587 - INFO - Getting details for Cheptumo, William
+2025-04-29 22:32:00,587 - INFO - Getting details for Cherarkey Samson K
+2025-04-29 22:32:02,636 - INFO - Getting details for Cheruiyot Aaron Kipkirui
+2025-04-29 22:32:02,636 - INFO - Getting details for Chesang', Allan
+2025-04-29 22:32:02,637 - INFO - Getting details for Chimera Raphael Mwinzago
+2025-04-29 22:32:02,637 - INFO - Getting details for Chute, Mohamed
+2025-04-29 22:32:02,637 - INFO - Getting details for Crystal Kegehi Asige
+2025-04-29 22:32:04,183 - INFO - Getting details for Dullo, Fatuma
+2025-04-29 22:32:04,404 - INFO - Getting details for Abdi, Hussein
+2025-04-29 22:32:04,404 - INFO - Getting details for Abdikheir, Mohamed
+2025-04-29 22:32:04,404 - INFO - Getting details for Abdi, Yusuf Hassan
+2025-04-29 22:32:04,405 - INFO - Getting details for Abuor, Paul
+2025-04-29 22:32:06,005 - INFO - Getting details for Aburi, Mpuru
+2025-04-29 22:32:06,329 - INFO - Getting details for Adagala, Beatrice Kahai
+2025-04-29 22:32:06,329 - INFO - Getting details for Adan, Mohammed
+2025-04-29 22:32:06,329 - INFO - Getting details for Adow, Mohamed
+2025-04-29 22:32:06,667 - INFO - Getting details for Adow, Yakub
+2025-04-29 22:32:07,779 - INFO - Getting details for Akujah Protus
+2025-04-29 22:32:08,225 - INFO - Getting details for Alfah, Miruka Ondieki
+2025-04-29 22:32:08,226 - INFO - Getting details for Ali, Abdi
+2025-04-29 22:32:08,226 - INFO - Getting details for Ali Abdisirat Khalif
+2025-04-29 22:32:08,477 - INFO - Getting details for Ali, Mohamed
+2025-04-29 22:32:09,378 - INFO - Getting details for Amollo, Paul Otiende
+2025-04-29 22:32:10,200 - INFO - Getting details for Ariko John Namoit
+2025-04-29 22:32:12,159 - INFO - Successfully scraped details for 32 politicians in senate
+2025-04-29 22:32:12,159 - INFO - === Scraping County Assemblies ===
+2025-04-29 22:32:13,917 - INFO - Scraping complete in 50 seconds. Data saved to kenyan_leaders_data

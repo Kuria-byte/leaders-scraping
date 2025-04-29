@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Abdi, Hussein",
+    "position": "Member for Tarbaj Constituency.",
+    "constituency": "Tarbaj",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/abdi-hussein/",
+    "image_url": "https://mzalendo.com/media/member_pics/abdi_hussein.jpg",
+    "category": "national_assembly",
+    "id": "abdi-hussein"
+  },
+  {
+    "name": "Abdikheir, Mohamed",
+    "position": "Member for Lafey Constituency.",
+    "constituency": "Lafey",
+    "county": "Mandera",
+    "profile_url": "https://mzalendo.com/parliament/politician/abdikheir-mohamed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ABDI.jpg",
+    "category": "national_assembly",
+    "id": "abdikheir-mohamed"
+  },
+  {
+    "name": "Abdi, Yusuf Hassan",
+    "position": "Member for Kamukunji Constituency.",
+    "constituency": "Kamukunji",
+    "county": "Nairobi",
+    "profile_url": "https://mzalendo.com/parliament/politician/abdi-yusuf-hassan/",
+    "image_url": "https://mzalendo.com/media/member_pics/mps/abdiyusufhassan.jpg",
+    "category": "national_assembly",
+    "id": "abdi-yusuf-hassan"
+  },
+  {
+    "name": "Abuor, Paul",
+    "position": "Member for Rongo Constituency.",
+    "constituency": "Rongo",
+    "county": "Migori",
+    "profile_url": "https://mzalendo.com/parliament/politician/abuor-paul/",
+    "image_url": "https://mzalendo.com/media/member_pics/pp.jpg",
+    "category": "national_assembly",
+    "id": "abuor-paul"
+  },
+  {
+    "name": "Aburi, Mpuru",
+    "position": "Member for Tigania East Constituency.",
+    "constituency": "Tigania East",
+    "county": "Meru",
+    "profile_url": "https://mzalendo.com/parliament/politician/aburi-mpuru/",
+    "image_url": "https://mzalendo.com/media/member_pics/ABURI.jpg",
+    "category": "national_assembly",
+    "id": "aburi-mpuru"
+  },
+  {
+    "name": "Adagala, Beatrice Kahai",
+    "position": "Women's Representative for Vihiga.",
+    "constituency": null,
+    "county": null,
+    "profile_url": "https://mzalendo.com/parliament/politician/adagala-beatrice-kahai/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADAGALA.jpg",
+    "category": "national_assembly",
+    "id": "adagala-beatrice-kahai"
+  },
+  {
+    "name": "Adan, Mohammed",
+    "position": "Member for Wajir East Constituency.",
+    "constituency": "Wajir East",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/adan-mohammed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADEN.jpg",
+    "category": "national_assembly",
+    "id": "adan-mohammed"
+  },
+  {
+    "name": "Adow, Mohamed",
+    "position": "Member for Wajir South Constituency.",
+    "constituency": "Wajir South",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/adow-mohamed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADOW.jpg",
+    "category": "national_assembly",
+    "id": "adow-mohamed"
+  },
+  {
+    "name": "Adow, Yakub",
+    "position": "Member for Bura Constituency.",
+    "constituency": "Bura",
+    "county": "Tana River",
+    "profile_url": "https://mzalendo.com/parliament/politician/adow-yakub/",
+    "image_url": "https://mzalendo.com/media/member_pics/BURA.jpg",
+    "category": "national_assembly",
+    "id": "adow-yakub"
+  },
+  {
+    "name": "Akujah Protus",
+    "position": "Member for Loima Constituency.",
+    "constituency": "Loima",
+    "county": null,
+    "profile_url": "https://mzalendo.com/parliament/politician/akujah-protus/",
+    "image_url": "https://mzalendo.com/media/member_pics/PROTUS.jpg",
+    "category": "national_assembly",
+    "id": "akujah-protus"
+  },
+  {
+    "name": "Alfah, Miruka Ondieki",
+    "position": "Member for Bomachoge Chache Constituency.",
+    "constituency": "Bomachoge Chache",
+    "county": "Kisii",
+    "profile_url": "https://mzalendo.com/parliament/politician/alfah-miruka-ondieki/",
+    "image_url": "https://mzalendo.com/media/member_pics/mps/alfahmirukaondieki.jpg",
+    "category": "national_assembly",
+    "id": "alfah-miruka-ondieki"
+  },
+  {
+    "name": "Ali, Abdi",
+    "position": "Member for  Ijara Constituency.",
+    "constituency": "Ijara",
+    "county": "Garissa",
+    "profile_url": "https://mzalendo.com/parliament/politician/ali-abdi/",
+    "image_url": "https://mzalendo.com/media/member_pics/ABDI_t0x63D2.jpg",
+    "category": "national_assembly",
+    "id": "ali-abdi"
+  },
+  {
+    "name": "Ali Abdisirat Khalif",
+    "position": "Nominated Member (Marginalized interests)",
+    "constituency": null,
+    "county": null,
+    "profile_url": "https://mzalendo.com/parliament/politician/ali-abdisirat-khalif/",
+    "image_url": "https://mzalendo.com/media/member_pics/Abdisirat_Ali.jfif",
+    "category": "national_assembly",
+    "id": "ali-abdisirat-khalif"
+  },
+  {
+    "name": "Ali, Mohamed",
+    "position": "Member for Nyali Constituency.",
+    "constituency": "Nyali",
+    "county": "Mombasa",
+    "profile_url": "https://mzalendo.com/parliament/politician/ali-mohamed/",
+    "image_url": "https://mzalendo.com/media/member_pics/Mohamed_Ali.jpg",
+    "category": "national_assembly",
+    "id": "ali-mohamed"
+  },
+  {
+    "name": "Amollo, Paul Otiende",
+    "position": "Member for Rarieda Constituency.",
+    "constituency": "Rarieda",
+    "county": null,
+    "profile_url": "https://mzalendo.com/parliament/politician/amollo-paul-otiende/",
+    "image_url": "https://mzalendo.com/media/member_pics/mps/amollopaulotiende.jpg",
+    "category": "national_assembly",
+    "id": "amollo-paul-otiende"
+  },
+  {
+    "name": "Ariko John Namoit",
+    "position": "Member for Turkana South Constituency.",
+    "constituency": "Turkana South",
+    "county": "Turkana",
+    "profile_url": "https://mzalendo.com/parliament/politician/ariko-john-namoit/",
+    "image_url": "https://mzalendo.com/media/member_pics/ARIKO.jpg",
+    "category": "national_assembly",
+    "id": "ariko-john-namoit"
+  },
+  {
+    "name": "Abdi, Hussein",
+    "position": "Member for Tarbaj Constituency.",
+    "constituency": "Tarbaj",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/abdi-hussein/",
+    "image_url": "https://mzalendo.com/media/member_pics/abdi_hussein.jpg",
+    "category": "national_assembly",
+    "id": "abdi-hussein"
+  },
+  {
+    "name": "Abdikheir, Mohamed",
+    "position": "Member for Lafey Constituency.",
+    "constituency": "Lafey",
+    "county": "Mandera",
+    "profile_url": "https://mzalendo.com/parliament/politician/abdikheir-mohamed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ABDI.jpg",
+    "category": "national_assembly",
+    "id": "abdikheir-mohamed"
+  },
+  {
+    "name": "Abdi, Yusuf Hassan",
+    "position": "Member for Kamukunji Constituency.",
+    "constituency": "Kamukunji",
+    "county": "Nairobi",
+    "profile_url": "https://mzalendo.com/parliament/politician/abdi-yusuf-hassan/",
+    "image_url": "https://mzalendo.com/media/member_pics/mps/abdiyusufhassan.jpg",
+    "category": "national_assembly",
+    "id": "abdi-yusuf-hassan"
+  },
+  {
+    "name": "Abuor, Paul",
+    "position": "Member for Rongo Constituency.",
+    "constituency": "Rongo",
+    "county": "Migori",
+    "profile_url": "https://mzalendo.com/parliament/politician/abuor-paul/",
+    "image_url": "https://mzalendo.com/media/member_pics/pp.jpg",
+    "category": "national_assembly",
+    "id": "abuor-paul"
+  },
+  {
+    "name": "Aburi, Mpuru",
+    "position": "Member for Tigania East Constituency.",
+    "constituency": "Tigania East",
+    "county": "Meru",
+    "profile_url": "https://mzalendo.com/parliament/politician/aburi-mpuru/",
+    "image_url": "https://mzalendo.com/media/member_pics/ABURI.jpg",
+    "category": "national_assembly",
+    "id": "aburi-mpuru"
+  },
+  {
+    "name": "Adagala, Beatrice Kahai",
+    "position": "Women's Representative for Vihiga.",
+    "constituency": null,
+    "county": null,
+    "profile_url": "https://mzalendo.com/parliament/politician/adagala-beatrice-kahai/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADAGALA.jpg",
+    "category": "national_assembly",
+    "id": "adagala-beatrice-kahai"
+  },
+  {
+    "name": "Adan, Mohammed",
+    "position": "Member for Wajir East Constituency.",
+    "constituency": "Wajir East",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/adan-mohammed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADEN.jpg",
+    "category": "national_assembly",
+    "id": "adan-mohammed"
+  },
+  {
+    "name": "Adow, Mohamed",
+    "position": "Member for Wajir South Constituency.",
+    "constituency": "Wajir South",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/adow-mohamed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADOW.jpg",
+    "category": "national_assembly",
+    "id": "adow-mohamed"
+  },
+  {
+    "name": "Adow, Yakub",
+    "position": "Member for Bura Constituency.",
+    "constituency": "Bura",
+    "county": "Tana River",
+    "profile_url": "https://mzalendo.com/parliament/politician/adow-yakub/",
+    "image_url": "https://mzalendo.com/media/member_pics/BURA.jpg",
+    "category": "national_assembly",
+    "id": "adow-yakub"
+  },
+  {
+    "name": "Akujah Protus",
+    "position": "Member for Loima Constituency.",
+    "constituency": "Loima",
+    "county": null,
+    "profile_url": "https://mzalendo.com/parliament/politician/akujah-protus/",
+    "image_url": "https://mzalendo.com/media/member_pics/PROTUS.jpg",
+    "category": "national_assembly",
+    "id": "akujah-protus"
+  },
+  {
+    "name": "Alfah, Miruka Ondieki",
+    "position": "Member for Bomachoge Chache Constituency.",
+    "constituency": "Bomachoge Chache",
+    "county": "Kisii",
+    "profile_url": "https://mzalendo.com/parliament/politician/alfah-miruka-ondieki/",
+    "image_url": "https://mzalendo.com/media/member_pics/mps/alfahmirukaondieki.jpg",
+    "category": "national_assembly",
+    "id": "alfah-miruka-ondieki"
+  },
+  {
+    "name": "Ali, Abdi",
+    "position": "Member for  Ijara Constituency.",
+    "constituency": "Ijara",
+    "county": "Garissa",
+    "profile_url": "https://mzalendo.com/parliament/politician/ali-abdi/",
+    "image_url": "https://mzalendo.com/media/member_pics/ABDI_t0x63D2.jpg",
+    "category": "national_assembly",
+    "id": "ali-abdi"
+  },
+  {
+    "name": "Ali Abdisirat Khalif",
+    "position": "Nominated Member (Marginalized interests)",
+    "constituency": null,
+    "county": null,
+    "profile_url": "https://mzalendo.com/parliament/politician/ali-abdisirat-khalif/",
+    "image_url": "https://mzalendo.com/media/member_pics/Abdisirat_Ali.jfif",
+    "category": "national_assembly",
+    "id": "ali-abdisirat-khalif"
+  },
+  {
+    "name": "Ali, Mohamed",
+    "position": "Member for Nyali Constituency.",
+    "constituency": "Nyali",
+    "county": "Mombasa",
+    "profile_url": "https://mzalendo.com/parliament/politician/ali-mohamed/",
+    "image_url": "https://mzalendo.com/media/member_pics/Mohamed_Ali.jpg",
+    "category": "national_assembly",
+    "id": "ali-mohamed"
+  },
+  {
+    "name": "Amollo, Paul Otiende",
+    "position": "Member for Rarieda Constituency.",
+    "constituency": "Rarieda",
+    "county": null,
+    "profile_url": "https://mzalendo.com/parliament/politician/amollo-paul-otiende/",
+    "image_url": "https://mzalendo.com/media/member_pics/mps/amollopaulotiende.jpg",
+    "category": "national_assembly",
+    "id": "amollo-paul-otiende"
+  },
+  {
+    "name": "Ariko John Namoit",
+    "position": "Member for Turkana South Constituency.",
+    "constituency": "Turkana South",
+    "county": "Turkana",
+    "profile_url": "https://mzalendo.com/parliament/politician/ariko-john-namoit/",
+    "image_url": "https://mzalendo.com/media/member_pics/ARIKO.jpg",
+    "category": "national_assembly",
+    "id": "ariko-john-namoit"
+  }
+]

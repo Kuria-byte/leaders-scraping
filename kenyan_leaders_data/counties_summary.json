@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Wajir",
+    "leaders_count": 9
+  },
+  {
+    "name": "Mandera",
+    "leaders_count": 3
+  },
+  {
+    "name": "Nairobi",
+    "leaders_count": 3
+  },
+  {
+    "name": "Migori",
+    "leaders_count": 3
+  },
+  {
+    "name": "Meru",
+    "leaders_count": 3
+  },
+  {
+    "name": "Tana River",
+    "leaders_count": 3
+  },
+  {
+    "name": "Kisii",
+    "leaders_count": 3
+  },
+  {
+    "name": "Garissa",
+    "leaders_count": 3
+  },
+  {
+    "name": "Mombasa",
+    "leaders_count": 3
+  },
+  {
+    "name": "Turkana",
+    "leaders_count": 3
+  }
+]

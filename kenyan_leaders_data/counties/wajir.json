@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Abdi, Hussein",
+    "position": "Member for Tarbaj Constituency.",
+    "constituency": "Tarbaj",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/abdi-hussein/",
+    "image_url": "https://mzalendo.com/media/member_pics/abdi_hussein.jpg",
+    "category": "national_assembly",
+    "id": "abdi-hussein"
+  },
+  {
+    "name": "Adan, Mohammed",
+    "position": "Member for Wajir East Constituency.",
+    "constituency": "Wajir East",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/adan-mohammed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADEN.jpg",
+    "category": "national_assembly",
+    "id": "adan-mohammed"
+  },
+  {
+    "name": "Adow, Mohamed",
+    "position": "Member for Wajir South Constituency.",
+    "constituency": "Wajir South",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/adow-mohamed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADOW.jpg",
+    "category": "national_assembly",
+    "id": "adow-mohamed"
+  },
+  {
+    "name": "Abdi, Hussein",
+    "position": "Member for Tarbaj Constituency.",
+    "constituency": "Tarbaj",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/abdi-hussein/",
+    "image_url": "https://mzalendo.com/media/member_pics/abdi_hussein.jpg",
+    "category": "national_assembly",
+    "id": "abdi-hussein"
+  },
+  {
+    "name": "Adan, Mohammed",
+    "position": "Member for Wajir East Constituency.",
+    "constituency": "Wajir East",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/adan-mohammed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADEN.jpg",
+    "category": "national_assembly",
+    "id": "adan-mohammed"
+  },
+  {
+    "name": "Adow, Mohamed",
+    "position": "Member for Wajir South Constituency.",
+    "constituency": "Wajir South",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/adow-mohamed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADOW.jpg",
+    "category": "national_assembly",
+    "id": "adow-mohamed"
+  },
+  {
+    "name": "Abdi, Hussein",
+    "position": "Member for Tarbaj Constituency.",
+    "constituency": "Tarbaj",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/abdi-hussein/",
+    "image_url": "https://mzalendo.com/media/member_pics/abdi_hussein.jpg",
+    "category": "senate",
+    "id": "abdi-hussein"
+  },
+  {
+    "name": "Adan, Mohammed",
+    "position": "Member for Wajir East Constituency.",
+    "constituency": "Wajir East",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/adan-mohammed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADEN.jpg",
+    "category": "senate",
+    "id": "adan-mohammed"
+  },
+  {
+    "name": "Adow, Mohamed",
+    "position": "Member for Wajir South Constituency.",
+    "constituency": "Wajir South",
+    "county": "Wajir",
+    "profile_url": "https://mzalendo.com/parliament/politician/adow-mohamed/",
+    "image_url": "https://mzalendo.com/media/member_pics/ADOW.jpg",
+    "category": "senate",
+    "id": "adow-mohamed"
+  }
+]

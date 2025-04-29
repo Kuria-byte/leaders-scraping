@@ -1,0 +1,19 @@
+{
+  "total_leaders": 64,
+  "by_category": {
+    "national_assembly": 32,
+    "senate": 32
+  },
+  "by_party": {
+    "unknown": 64
+  },
+  "by_gender": {
+    "male": 0,
+    "female": 8,
+    "unknown": 56
+  },
+  "education_levels": {},
+  "attendance_average": 0,
+  "projects_total": 0,
+  "promises_by_category": {}
+}
