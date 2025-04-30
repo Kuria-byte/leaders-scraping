@@ -31,7 +31,7 @@ This project scrapes data about Kenyan political leaders from the Mzalendo websi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/mzalendo-scraper.git
+   git clone https://github.com/Kuria-byte/leaders-scraping.git
    cd mzalendo-scraper
    ```
 
